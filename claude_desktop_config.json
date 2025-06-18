@@ -1,0 +1,17 @@
+{
+    "mcpServers": {
+        "pyhub.mcptools": {
+            "command": "C:\\mcptools\\pyhub.mcptools\\pyhub.mcptools.exe",
+            "args": [
+                "run",
+                "stdio"
+            ]
+        },
+        "mcp_custom_server": {
+            "command": "python",
+            "args": [
+                "C:\\test\\server.py"
+            ]
+        }
+    }
+}
